@@ -1,0 +1,16 @@
+Yes,I will ask for the username and password acceptance criteria.
+Also I will ask for whether the login is by using email or username.
+Also I will check how the authentication is done if a user forgets password.
+Also  whether there is a Forgot password link present or not.
+
+Acceptance criteria
+Login using username
+
+Username: accepts 7-14 characters
+          Should contain atleast 1 uppercase,lowercase letter and atleast include a number from 0-9.
+          
+Password: accepts 7-14 characters
+		  Should contain atleast 1 uppercase,lowercase letter and atleast include a number from 0-9.
+		  
+		  
+		           
